@@ -5,7 +5,7 @@ the current Docker best practices, ranging from the Compose file, to the
 Dockerfile, to CI (using GitHub Actions), and running tests. It's intended to 
 be well-documented to ensure anyone can come in and easily learn.
 
-## Application   architecture
+## Application architecture
 
 ![image](https://github.com/docker/getting-started-todo-app/assets/313480/c128b8e4-366f-4b6f-ad73-08e6652b7c4d)
 
